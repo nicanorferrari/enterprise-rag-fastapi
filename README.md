@@ -1,4 +1,9 @@
 # Enterprise RAG Service with FastAPI and pgvector
+![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/pgvector-pg16-336791.svg?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-ready-2496ED.svg?logo=docker&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Arquitectura de referencia para un microservicio desacoplado de Retrieval-Augmented Generation (RAG) en produccion, disenado para garantizar baja latencia, respuestas estrictamente ancladas a datos contextuales y mitigacion de alucinaciones.
 
