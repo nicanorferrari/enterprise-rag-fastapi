@@ -1,3 +1,4 @@
+﻿[![CI/CD Pipeline](https://github.com/nicanorferrari/enterprise-rag-fastapi/actions/workflows/ci.yml/badge.svg)](https://github.com/nicanorferrari/enterprise-rag-fastapi/actions)
 # Enterprise RAG Service with FastAPI and pgvector
 ![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688.svg?logo=fastapi&logoColor=white)
